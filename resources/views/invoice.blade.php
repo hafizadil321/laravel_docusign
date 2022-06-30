@@ -120,6 +120,9 @@
 									<div class="col-md-12 text-right identity">
 										<p>Designer identity<br><strong>Jeffrey Williams</strong></p>
 									</div>
+									<div class="col-md-12 text-right identity margin-cals">
+										<p><strong>Signature Here</strong></br></p>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -163,6 +166,9 @@ background:#eee;
 	margin-top: 10px;
 	font-size: 1.1em;
 	font-weight: 300;
+}
+.invoice .margin-cals {
+	margin-bottom: 30px;
 }
 
 .invoice .identity strong {
